@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Solutions Architect and full-stack .NET engineer with ~30 years in IT, spanning software development, databases, DevOps, and Azure cloud architecture.
+
 <!--
 **jlnewell/jlnewell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
